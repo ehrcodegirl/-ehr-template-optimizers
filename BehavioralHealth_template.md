@@ -1,0 +1,3 @@
+# BehavioralHealth template
+
+Placeholder content.

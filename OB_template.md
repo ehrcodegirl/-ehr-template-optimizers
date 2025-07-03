@@ -1,0 +1,3 @@
+# OB template
+
+Placeholder content.
